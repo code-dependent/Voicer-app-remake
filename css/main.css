@@ -91,9 +91,11 @@
 }
 .container .register #reg {
   background: #ff7b00;
+  text-transform: uppercase;
 }
 .container .register #log {
   background: #64819b;
+  text-transform: uppercase;
 }
 .container .register #log:hover {
   color: #ff7b00;
@@ -138,6 +140,7 @@
   margin: 5% 0;
   border-radius: 0.5rem;
   background: #ff7b00;
+  text-transform: uppercase;
 }
 .container footer {
   display: flex;
